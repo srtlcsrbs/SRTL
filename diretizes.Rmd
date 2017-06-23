@@ -1,0 +1,133 @@
+---
+title: "SUBCOMITÊ DE REVISÃO E TRADUÇÃO DE LITERATURA(SRTL)"
+output:
+  html_document:
+    toc: false
+---
+
+![](link/logo.png)
+
+# Diretrizes do SRTL - Região Brasilsul
+
+O Subcomitê Regional de Revisão e Tradução de Literatura – SRTL – tem a função de traduzir literatura de NA aprovada pela irmandade, e revisá-la, deixando os itens de literatura em português prontos para produção e 
+distribuição. Seu propósito é o de possibilitar que a mensagem escrita de NA, em português, seja levada ao adicto que ainda sofre.
+Este subcomitê tem características muito particulares. Ao contrário da maioria dos outros serviços, o SRTL não leva diretamente a mensagem de 
+recuperação. É um subcomitê de trabalho. Esta particularidade determina sua organização. O subcomitê é formado por dois tipos de membros servidores. Aqueles ocupando encargos com responsabilidades específicas e os membros que participam do trabalho de tradução, revisão e outras tarefas.
+
+## Encargos
+
+Os requisitos para os candidatos aos encargos encontram-se definidos no Manual de Procedimentos da Região Brasil Sul.
+
+A estrutura do subcomitê é formada pelos seguintes servidores e suas funções:
+
+> ### Coordenador
+
+É sugerido um mínimo de 2 anos limpo.
+O coordenador é responsável, dentre outras coisas, pela coordenação do serviço do subcomitê, pela organização dos materiais de trabalho, divisão de tarefas, comunicação entre todos os participantes do serviço e pela comunicação entre o SRTL e o CSR, o WSO e a WSTC (Comitê de Traduções dos Serviços Mundiais). Ele supervisiona o andamento do trabalho no dia-a-dia e cria condições para que o mesmo seja desenvolvido nas suas diversas etapas plenamente. Ele ou ela participa das reuniões no CSR com direito a voto e apresenta a previsão orçamentária trimestral do subcomitê, prestando conta dos gastos em reunião ordinária da Região. 
+
+> ###  Vice-coordenador
+
+É sugerido um mínimo de 2 anos limpo.
+O vice-coordenador é o responsável direto pela coordenação e supervisão dos diversos grupos de trabalho que se reúnem para realizar projetos específicos. Ajuda o coordenador em suas atribuições e o substitui em caso de sua ausência. O coordenador também pode dividir suas responsabilidades com o vice, designando partes destas a ele.
+
+> ###  Secretário
+
+É sugerido um mínimo de 2 anos limpo.
+O secretário mantém registros precisos do serviço do subcomitê e é o responsável, sob a supervisão do coordenador, por preparar os relatórios trimestrais do andamento dos trabalhos e de prestação de contas, para as reuniões do CSR. Ele também organiza e mantém atualizados os arquivos do subcomitê.
+
+> ###  Membros
+
+Membros com ou sem conhecimento da língua portuguesa e/ou da língua inglesa e familiarizados com a linguagem de NA são convidados a participar deste serviço.
+
+1. Membro tradutor:
+
+Os membros tradutores se apresentam e se colocam à disposição para servir. O comitê designa, então, um trabalho de tradução que ele/ela realiza em seu próprio espaço e tempo. Uma tradução pode ser enviada ao subcomitê pela internet, sem a necessidade da presença física do tradutor em uma reunião do subcomitê.  A tradução também pode ser feita por um profissional especializado. 
+
+2. Membro de equipe de revisão:
+
+A maior parte do trabalho do subcomitê de tradução de literatura consiste na revisão da literatura traduzida pelos membros tradutores. Esta revisão consiste de várias etapas e é um trabalho realizado em equipe, em reuniões regulares. Uma revisão pode também ser enviada ao subcomitê pela internet, sem a necessidade da presença física do revisor em uma reunião do subcomitê, mas sujeito à aprovação em reunião presencial. 
+
+3. Tarefas específicas:
+
+Existem, por vezes, algumas outras tarefas específicas que requerem habilidades pessoais e que muitas vezes são realizadas por profissionais especializados tais como serviços de digitação ou revisão ortográfico-gramatical, entre outros.
+Para maiores informações a respeito do descrito acima, entre em contato com o SRTL.
+
+# Etapas de Trabalho
+
+Visto que, conforme orientação do WSO, qualquer literatura traduzida ou revisada para o português do Brasil pelas regiões aqui existentes devem ser consideradas aprovadas pelas mesmas antes de serem consideradas oficiais de NA, o trabalho deverá se realizar seguindo as seguintes etapas:
+
+Trabalho executado pelo CSR-BS
+
+- Tradução do Original
+- Revisão Conceitual (2 revisões)
+- Revisão Ortográfica e Gramatical (proofreading)
+- Envio para o NAWS para apreciação e sugestão das correções necessárias
+- Revisão de qualidade (QC - quality control)
+- Envio para o NAWS para apreciação e sugestão das correções necessárias
+- Aprovação final com assinatura do comitê responsável
+
+
+# Finanças
+
+O subcomitê será mantido pelo CSR-BS através da previsão orçamentária apresentada pelo subcomitê e aprovada pelos CSA’s que compõem a Região.
+
+# Alteração das Diretrizes
+
+Toda e qualquer alteração deverá ser solicitada através de moção apresentada na reunião regional e aprovada pelos CSA’s da Região após seis meses de vigência.
+
+# Mapa de Processo de Tradução
+
+Este mapa, que está disponível no *link* abaixo é um diagrama que mostra todo o processo de tradução e revisão de literatura de NA, desde a necessidade da tradução quando lançada literatura nova de Narcóticos Anônimos, a etapa que compete aos SRTL's no Brasil e até seu envio e aprovação pelo NAWS.
+
+- **Mapa de Processo de Tradução**
+
+  [link](link/Mapa_processo.pdf)
+
+
+# Glossário
+
+No glossário que pode ser acessado pelo *link* ao abaixo, há alguns termos aprovados pelo Comitê de Literatura de Narcóticos Anônimos. O intuito é padronizar alguns termos e expressões para não haver divergências nas traduções uma vez que são feitas por diversos membros de boa vontade.
+
+- **Glossário**
+
+  [link](link/Glossario.pdf)
+
+# Translation Basics
+
+O *Translation Basics* é um material aprovado pelo quadro mundial que pode ser visto como o "manual de procedimentos" para as traduções e revisões de literaturas de NA. É fortemente sugerido que todos os Subcomitês que se envolvem com este tipo de serviço, sigam essas orientações. O material pode ser acessado pelo *link* abaixo.
+
+- **Translation Basics**
+
+  [link](link/TBasics.pdf)
+
+# Termos importantes
+
+1 - **Proofreading:** A prova de leitura – é a revisão ortográfica e gramatical realizada por
+um profissional ou membro de NA no Brasil que domina fluentemente as línguas
+portuguesa e inglesa.
+
+2 - **Quality Check:** Diagramação ou Controle de Qualidade da tradução e revisão realizada
+por um profissional nos EUA contratado pelo NAWS, última revisão antes do material ser
+enviado para impressão e distribuição.
+
+# Reaching out
+
+Revista da irmandade de NA dedicada a publicar cartas de adictos que estão encarcerados. Ela apresenta três seções: A primeira chamada de dentro para fora, trás cartas com partilhas de companheiros que ainda estão presos; a segunda seção é dedicada as cartas de companheiros que estão vivendo a experiência da transição entre a prisão e a liberdade; e a terceira e última seção dá espaço a partilha das experiências de companheiros que já estão em liberdade e continuam em recuperação em NA.
+
+A revista pode ser acessada, assim como seu *download* pelo endereço abaixo:
+
+><http://www.na.org/?ID=reaching-out-index>
+
+É importante salientar que além da comunidade espanhola, o Brasil é o único país a fazer a tradução desta revista. As traduções são realizadas por companheiros que participam dos SRTL's aqui no Brasil.
+
+Mais detalhes podem ser encontrados nos dois *links* abaixo:
+
+- **Reaching Out**
+
+  [link1](link/RO1.pdf)
+  
+  [link2](link/RO2.pdf)
+  
+  
+  
+  

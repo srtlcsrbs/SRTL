@@ -1,0 +1,29 @@
+---
+title: "Subcomitê de Tradução e Revisão de Literatura da Região Brasil Sul"
+output: html_document
+---
+
+![](link/logo.png)
+
+# Relatórios 
+
+>Abaixo relatórios anteriores do SRTL do termo de março/2015 à março/2017
+
+  [04/07/2015](report/report_SRTL.pdf)
+
+  [26/09/2015](report/Report_2.pdf)
+
+  [10/01/2016](report/Report_3.pdf)
+  
+  [19/03/2016](report/Report_4.pdf)
+  
+  [17/09/2016](report/Relatorio_SRTL_Setembro2016.pdf)
+  
+  [19/12/2016](report/Relatorio_SRTL_Dezembro2016.pdf)
+  
+  [25/03/2017](report/Relatorio_SRTL_Março2017.pdf)
+  
+  
+- **Ata da última Conferência Nacional de Literatura - Campinas-SP**
+
+  [20/08/2016](report/conferência.pdf)

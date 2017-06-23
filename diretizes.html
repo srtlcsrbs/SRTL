@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>SUBCOMITÊ DE REVISÃO E TRADUÇÃO DE LITERATURA(SRTL)</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/navigation-1.1/codefolding.js"></script>
+<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 66px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+
+.section h2 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h3 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h4 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h5 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+.section h6 {
+  padding-top: 71px;
+  margin-top: -71px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
+<script>
+$(document).ready(function () {
+  window.initializeCodeFolding("show" === "show");
+});
+</script>
+
+
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Narcóticos Anônimos</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="diretizes.html">SRTL</a>
+</li>
+<li>
+  <a href="site_srtl.html">Relatório Atual</a>
+</li>
+<li>
+  <a href="old.html">Relatórios Anteriores</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+<div class="btn-group pull-right">
+<button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>Code</span> <span class="caret"></span></button>
+<ul class="dropdown-menu" style="min-width: 50px;">
+<li><a id="rmd-show-all-code" href="#">Show All Code</a></li>
+<li><a id="rmd-hide-all-code" href="#">Hide All Code</a></li>
+</ul>
+</div>
+
+
+
+<h1 class="title toc-ignore">SUBCOMITÊ DE REVISÃO E TRADUÇÃO DE LITERATURA(SRTL)</h1>
+
+</div>
+
+
+<div class="figure">
+<img src="link/logo.png" />
+
+</div>
+<div id="diretrizes-do-srtl---regiao-brasilsul" class="section level1">
+<h1>Diretrizes do SRTL - Região Brasilsul</h1>
+<p>O Subcomitê Regional de Revisão e Tradução de Literatura – SRTL – tem a função de traduzir literatura de NA aprovada pela irmandade, e revisá-la, deixando os itens de literatura em português prontos para produção e distribuição. Seu propósito é o de possibilitar que a mensagem escrita de NA, em português, seja levada ao adicto que ainda sofre. Este subcomitê tem características muito particulares. Ao contrário da maioria dos outros serviços, o SRTL não leva diretamente a mensagem de recuperação. É um subcomitê de trabalho. Esta particularidade determina sua organização. O subcomitê é formado por dois tipos de membros servidores. Aqueles ocupando encargos com responsabilidades específicas e os membros que participam do trabalho de tradução, revisão e outras tarefas.</p>
+<div id="encargos" class="section level2">
+<h2>Encargos</h2>
+<p>Os requisitos para os candidatos aos encargos encontram-se definidos no Manual de Procedimentos da Região Brasil Sul.</p>
+<p>A estrutura do subcomitê é formada pelos seguintes servidores e suas funções:</p>
+<blockquote>
+<h3 id="coordenador">Coordenador</h3>
+</blockquote>
+<p>É sugerido um mínimo de 2 anos limpo. O coordenador é responsável, dentre outras coisas, pela coordenação do serviço do subcomitê, pela organização dos materiais de trabalho, divisão de tarefas, comunicação entre todos os participantes do serviço e pela comunicação entre o SRTL e o CSR, o WSO e a WSTC (Comitê de Traduções dos Serviços Mundiais). Ele supervisiona o andamento do trabalho no dia-a-dia e cria condições para que o mesmo seja desenvolvido nas suas diversas etapas plenamente. Ele ou ela participa das reuniões no CSR com direito a voto e apresenta a previsão orçamentária trimestral do subcomitê, prestando conta dos gastos em reunião ordinária da Região.</p>
+<blockquote>
+<h3 id="vice-coordenador">Vice-coordenador</h3>
+</blockquote>
+<p>É sugerido um mínimo de 2 anos limpo. O vice-coordenador é o responsável direto pela coordenação e supervisão dos diversos grupos de trabalho que se reúnem para realizar projetos específicos. Ajuda o coordenador em suas atribuições e o substitui em caso de sua ausência. O coordenador também pode dividir suas responsabilidades com o vice, designando partes destas a ele.</p>
+<blockquote>
+<h3 id="secretario">Secretário</h3>
+</blockquote>
+<p>É sugerido um mínimo de 2 anos limpo. O secretário mantém registros precisos do serviço do subcomitê e é o responsável, sob a supervisão do coordenador, por preparar os relatórios trimestrais do andamento dos trabalhos e de prestação de contas, para as reuniões do CSR. Ele também organiza e mantém atualizados os arquivos do subcomitê.</p>
+<blockquote>
+<h3 id="membros">Membros</h3>
+</blockquote>
+<p>Membros com ou sem conhecimento da língua portuguesa e/ou da língua inglesa e familiarizados com a linguagem de NA são convidados a participar deste serviço.</p>
+<ol style="list-style-type: decimal">
+<li>Membro tradutor:</li>
+</ol>
+<p>Os membros tradutores se apresentam e se colocam à disposição para servir. O comitê designa, então, um trabalho de tradução que ele/ela realiza em seu próprio espaço e tempo. Uma tradução pode ser enviada ao subcomitê pela internet, sem a necessidade da presença física do tradutor em uma reunião do subcomitê. A tradução também pode ser feita por um profissional especializado.</p>
+<ol start="2" style="list-style-type: decimal">
+<li>Membro de equipe de revisão:</li>
+</ol>
+<p>A maior parte do trabalho do subcomitê de tradução de literatura consiste na revisão da literatura traduzida pelos membros tradutores. Esta revisão consiste de várias etapas e é um trabalho realizado em equipe, em reuniões regulares. Uma revisão pode também ser enviada ao subcomitê pela internet, sem a necessidade da presença física do revisor em uma reunião do subcomitê, mas sujeito à aprovação em reunião presencial.</p>
+<ol start="3" style="list-style-type: decimal">
+<li>Tarefas específicas:</li>
+</ol>
+<p>Existem, por vezes, algumas outras tarefas específicas que requerem habilidades pessoais e que muitas vezes são realizadas por profissionais especializados tais como serviços de digitação ou revisão ortográfico-gramatical, entre outros. Para maiores informações a respeito do descrito acima, entre em contato com o SRTL.</p>
+</div>
+</div>
+<div id="etapas-de-trabalho" class="section level1">
+<h1>Etapas de Trabalho</h1>
+<p>Visto que, conforme orientação do WSO, qualquer literatura traduzida ou revisada para o português do Brasil pelas regiões aqui existentes devem ser consideradas aprovadas pelas mesmas antes de serem consideradas oficiais de NA, o trabalho deverá se realizar seguindo as seguintes etapas:</p>
+<p>Trabalho executado pelo CSR-BS</p>
+<ul>
+<li>Tradução do Original</li>
+<li>Revisão Conceitual (2 revisões)</li>
+<li>Revisão Ortográfica e Gramatical (proofreading)</li>
+<li>Envio para o NAWS para apreciação e sugestão das correções necessárias</li>
+<li>Revisão de qualidade (QC - quality control)</li>
+<li>Envio para o NAWS para apreciação e sugestão das correções necessárias</li>
+<li>Aprovação final com assinatura do comitê responsável</li>
+</ul>
+</div>
+<div id="financas" class="section level1">
+<h1>Finanças</h1>
+<p>O subcomitê será mantido pelo CSR-BS através da previsão orçamentária apresentada pelo subcomitê e aprovada pelos CSA’s que compõem a Região.</p>
+</div>
+<div id="alteracao-das-diretrizes" class="section level1">
+<h1>Alteração das Diretrizes</h1>
+<p>Toda e qualquer alteração deverá ser solicitada através de moção apresentada na reunião regional e aprovada pelos CSA’s da Região após seis meses de vigência.</p>
+</div>
+<div id="mapa-de-processo-de-traducao" class="section level1">
+<h1>Mapa de Processo de Tradução</h1>
+<p>Este mapa, que está disponível no <em>link</em> abaixo é um diagrama que mostra todo o processo de tradução e revisão de literatura de NA, desde a necessidade da tradução quando lançada literatura nova de Narcóticos Anônimos, a etapa que compete aos SRTL’s no Brasil e até seu envio e aprovação pelo NAWS.</p>
+<ul>
+<li><strong>Mapa de Processo de Tradução</strong></li>
+</ul>
+<p><a href="link/Mapa_processo.pdf">link</a></p>
+</div>
+<div id="glossario" class="section level1">
+<h1>Glossário</h1>
+<p>No glossário que pode ser acessado pelo <em>link</em> ao abaixo, há alguns termos aprovados pelo Comitê de Literatura de Narcóticos Anônimos. O intuito é padronizar alguns termos e expressões para não haver divergências nas traduções uma vez que são feitas por diversos membros de boa vontade.</p>
+<ul>
+<li><strong>Glossário</strong></li>
+</ul>
+<p><a href="link/Glossario.pdf">link</a></p>
+</div>
+<div id="translation-basics" class="section level1">
+<h1>Translation Basics</h1>
+<p>O <em>Translation Basics</em> é um material aprovado pelo quadro mundial que pode ser visto como o “manual de procedimentos” para as traduções e revisões de literaturas de NA. É fortemente sugerido que todos os Subcomitês que se envolvem com este tipo de serviço, sigam essas orientações. O material pode ser acessado pelo <em>link</em> abaixo.</p>
+<ul>
+<li><strong>Translation Basics</strong></li>
+</ul>
+<p><a href="link/TBasics.pdf">link</a></p>
+</div>
+<div id="termos-importantes" class="section level1">
+<h1>Termos importantes</h1>
+<p>1 - <strong>Proofreading:</strong> A prova de leitura – é a revisão ortográfica e gramatical realizada por um profissional ou membro de NA no Brasil que domina fluentemente as línguas portuguesa e inglesa.</p>
+<p>2 - <strong>Quality Check:</strong> Diagramação ou Controle de Qualidade da tradução e revisão realizada por um profissional nos EUA contratado pelo NAWS, última revisão antes do material ser enviado para impressão e distribuição.</p>
+</div>
+<div id="reaching-out" class="section level1">
+<h1>Reaching out</h1>
+<p>Revista da irmandade de NA dedicada a publicar cartas de adictos que estão encarcerados. Ela apresenta três seções: A primeira chamada de dentro para fora, trás cartas com partilhas de companheiros que ainda estão presos; a segunda seção é dedicada as cartas de companheiros que estão vivendo a experiência da transição entre a prisão e a liberdade; e a terceira e última seção dá espaço a partilha das experiências de companheiros que já estão em liberdade e continuam em recuperação em NA.</p>
+<p>A revista pode ser acessada, assim como seu <em>download</em> pelo endereço abaixo:</p>
+<blockquote>
+<p><a href="http://www.na.org/?ID=reaching-out-index" class="uri">http://www.na.org/?ID=reaching-out-index</a></p>
+</blockquote>
+<p>É importante salientar que além da comunidade espanhola, o Brasil é o único país a fazer a tradução desta revista. As traduções são realizadas por companheiros que participam dos SRTL’s aqui no Brasil.</p>
+<p>Mais detalhes podem ser encontrados nos dois <em>links</em> abaixo:</p>
+<ul>
+<li><strong>Reaching Out</strong></li>
+</ul>
+<p><a href="link/RO1.pdf">link1</a></p>
+<p><a href="link/RO2.pdf">link2</a></p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

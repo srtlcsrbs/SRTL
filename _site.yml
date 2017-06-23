@@ -1,0 +1,19 @@
+name: "DES4024"
+output_dir: "."
+output:
+  html_document:
+    toc: false
+    toc_float: false
+    code_folding: show
+    theme: readable
+navbar:
+  title: "Narcóticos Anônimos"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "SRTL"
+      href: diretizes.html
+    - text: "Relatório Atual"
+      href: site_srtl.html
+    - text: "Relatórios Anteriores"
+      href: old.html      
