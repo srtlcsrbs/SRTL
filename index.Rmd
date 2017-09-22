@@ -11,15 +11,15 @@ output:
 <div class="alert alert-danger" role="alert">
 **ATENÇÃO!**
 
-- Próxima Conferência Nacional de Literatura será em Fortaleza-CE no mês de Agosto nos dias 19 e 20 de agosto de 2017.
+- Próxima Conferência Nacional de Literatura será em Curitiba-PR nos dias 18 e 19 de agosto de 2018.
 - Reuniões presenciais do SRTL Brasilsul, estão ocorrendo em Curitiba-PR nos CSA's Novos Caminhos e PARA-NA.
-- Reuniões presenciais em Maringá-PR no CSA PR44, estão suspensas por falta de servidores. 
+
 
 </div>
 
 
 
-# LIVRO NOVO 
+# LIVRO NOVO - Princípios orientadores: o espírito de nossas tradições.
 
 ![](link/trad.png)
 
