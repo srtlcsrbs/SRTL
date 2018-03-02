@@ -1,7 +1,7 @@
 ---
 title: "Reunião da Região Brasil Sul de Narcóticos Anônimos"
 author: "Subcomitê de Tradução e Revisão de Literatura"
-date: "23 de Setembro de 2017"
+date: "03 de Março de 2018"
 output: html_document
 ---
 
@@ -9,19 +9,19 @@ output: html_document
 
 # Resumo SRTL Região Brasilsul:
 
-	Neste último período do SRTL da Região Brasil sul manteve ativo e produtivo participando das primeiras revisões só novo livro de Tradições, que teve seu nome definido na última Conferência Nacional de Liter	atura de NA em Fortaleza-CE, como “Princípios orientadores: o espírito de nossas tradições ”. Revisamos a Tradição 2 e atualmente estamos atuando na revisão da Tradição 4.
+	Neste último período do SRTL da Região Brasil sul manteve ativo e produtivo participando das primeiras revisões do novo livro de Tradições, que teve seu nome definido na última Conferência Nacional de Literatura de NA em Fortaleza-CE, como “Princípios orientadores: o espírito de nossas tradições ”. Além de revisamos as Tradições 2, 4, 10 no ano de 2017, este ano (2018), retomamos as atividades com a revisão da Tradição 11 e até o dia 26/02/2018, que foi nossa última reunião, ainda estávamos revisando seu conteúdo, que provavelmente será finalizado na próxima reunião.
+	Como já mencionado no relatório anterior do SRTL, foi a escolhido o local da próxima conferência nacional de literatura de NA. Será em Curitiba-PR nos dias 18 e 19 de agosto de 2018. O cartaz já está pronto para divulgação do evento. 
 	
-	Nesta conferência em Fortaleza-CE, também foi eleita a nova mesa da SRTL nacional. Michel de Porto Alegre-RS, foi eleito coordenador nacional e o vice-coordenador eleito foi o companheiro Lucas de São Paulo-SP.
-	Outra decisão importante tomada nesta reunião em Fortaleza-CE, foi a escolha da próxima conferência nacional de literatura de NA, que será em Curitiba-PR nos dias 18 e 19 de agosto de 2018.
-	
-	As reuniões presenciais do SRTL da região Brasil sul, continuam acontecendo nos CSA’s Novos Caminhos e PARA-NA, ambos em Curitiba-PR de 14 a 14 dias nas segundas-feiras as 20:00, com coordenação de nosso novo secretário, companheiro Tiago C. No período em que o coordenador, do SRTL da região Brasil sul, estará ausente devido a uma viagem ao exterior por motivos de estudos, as reuniões continuam sendo coordenadas pelo companheiro Tiago C.
+![](link/Conferencia.jpg)
 
-O SRTL da nossa região será, representado na reunião regional, pelo vice-coordenador, o companheiro Daniel.
+	As reuniões presenciais do SRTL da região Brasil sul, continuam acontecendo nos CSA’s Novos Caminhos e PARA-NA, ambos em Curitiba-PR de 14 a 14 dias nas segundas-feiras. Quando ela é realizada no CSA PARA-NA elas mudaram paras as 19:00 (devido pedido do Subcomitê de eventos que solicitou o uso da sala neses dias) as 20:00 no CSA Novos Caminhos sem alterações.
+	As reuniões no ano de 2018, voltaram a ser coordenadas pelo coordenador do SRTL Brasilsul, pois este voltou da Finlândia e está residindo novamente em Curitiba-PR.
+	Desde o início do ano, o encargo de secretáriodo SRTL está em aberto.
 
-**Mais detalhes sobre a última conferência nacional de literatura de NA, que foi realizada em Fortaleza-CE nos dia
-19 e 20 de Agosto, podem ser encontrados no link abaixo.**
 
-(https://srtlcsrbs.github.io/SRTL/report/Conferência_Fortaleza.pdf)
+#	Abaixo calendário das reuniões do SRTL no primeiro semestre de 2018:
+
+![](link/Sched3.png)
 
 # Resumo Status das literaturas de NA no Brasil
 
@@ -41,4 +41,6 @@ O SRTL da nossa região será, representado na reunião regional, pelo vice-coor
 ![](link/service4.png)
 ![](link/service5.png)
 
+## Relatório do coorenador nacional do SRTL
 
+[Relatório Nacional](link/Nacional.pdf)
